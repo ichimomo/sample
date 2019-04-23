@@ -8,5 +8,6 @@ int main(void){
 	}
 	printf("sum is %d.\n",j);
 	
+	printf("Hello, FRA!\n");
 	return 0;
 }
